@@ -1,0 +1,16 @@
+audioread==2.1.8
+ffmpeg==1.4
+grpcio==1.29.0
+hdf5storage==0.1.15
+librosa==0.7.1
+multiprocess==0.70.9
+protobuf==3.12.2
+pydub==0.24.1
+numba==0.46.0
+resampy==0.2.2
+SoundFile==0.10.3.post1
+SpeechRecognition==3.8.1
+TextGrid==1.5
+torch==1.4.0
+torchvision==0.5.0
+webrtcvad==2.0.10
