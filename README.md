@@ -13,6 +13,9 @@ Windows:
 -open the Command Prompt and type python --version to verify that Python has been installed correctly
 -Set up a Virtual Environment: It's good practice to work within a virtual environment, especially for larger projects or when working with multiple Python projects. In requirements 2 and 3 we named this environment deepfried. So run conda activate deepfried
 
+**If the steps above do not work, the computer might need to be manually switch the the older outdated version of python. Navigate to settings PATHS/ENVIRONMENTS and try move the old python path to the top of the list.
 
+** this cause alot of other processes to crash in one of our other computers so this is not reccommended
 
 MAC:
+-we reccommend the installation of home brew to help with installing the older version of python
