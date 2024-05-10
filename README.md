@@ -19,3 +19,18 @@ Windows:
 
 MAC:
 -we reccommend the installation of home brew to help with installing the older version of python
+"/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+-setting up a virtual environment would also work here
+
+** if it dosn't work this just might be that the computer is too advanced and needs to be down graded before the environment will run
+
+CODE:
+
+We included some files that we tried to translate but could not get to work. Those files should be ignored when running the code. Some of the files are in pytorch that we used as reference these files should also be ignored. Over all if the the environment is set up correctly and the data processed the code should be able to run. 
+
+Troubleshooting:
+
+-Make sure to process the data sets and check for individual audio files
+-make sure that the data was preprocessed correctly 
+-make sure that version is correct 
+-make sure that the background processes dont break when running the code
